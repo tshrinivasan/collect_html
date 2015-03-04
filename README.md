@@ -2,6 +2,8 @@
 This program combines contents of all the html files from all the subdirectories of given directory.
 
 
+<pre>
+
 Usage: collect_html.py [options]
 
   This program combines contents of all the html files from all the
@@ -12,3 +14,5 @@ Options:
   -h, --help            show this help message and exit
   -t TARGET, --target=TARGET
                         target folder to collect html files
+
+</pre>
