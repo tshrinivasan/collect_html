@@ -15,4 +15,11 @@ Options:
   -t TARGET, --target=TARGET
                         target folder to collect html files
 
+
+
+
+Example :
+
+python collect_html.py -t <foldername>
 </pre>
+
