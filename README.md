@@ -16,10 +16,13 @@ Options:
                         target folder to collect html files
 
 
+</pre>
 
 
 Example :
 
 python collect_html.py -t <foldername>
-</pre>
+
+
+
 
