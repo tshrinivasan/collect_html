@@ -21,7 +21,7 @@ Options:
 
 Example :
 
-python collect_html.py -t <foldername>
+python collect_html.py -t foldername
 
 
 
